@@ -1,0 +1,18 @@
+﻿Build started 11/25/2014 9:31:40 PM.
+     1>Project "E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Lambdaalgebra\Lambdaalgebra.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt term.cpp
+         term.cpp
+     1>e:\dropbox\google drive 2\current math\project with isaksen\lambda algebra\lambda algebra c++\0.3 lambda algebra - adding multiplication of terms\lambdaalgebra\lambdaalgebra\term.cpp(252): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\dropbox\google drive 2\current math\project with isaksen\lambda algebra\lambda algebra c++\0.3 lambda algebra - adding multiplication of terms\lambdaalgebra\lambdaalgebra\term.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Debug\Lambdaalgebra.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Debug\Lambdaalgebra.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Debug\Lambdaalgebra.lib" /MACHINE:X86 Debug\mathtools.obj
+         Debug\monomial.obj
+         Debug\Source.obj
+         Debug\term.obj
+         Lambdaalgebra.vcxproj -> E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Debug\Lambdaalgebra.exe
+     1>Done Building Project "E:\Dropbox\Google Drive 2\Current Math\Project with Isaksen\Lambda Algebra\Lambda Algebra C++\0.3 Lambda Algebra - Adding multiplication of terms\Lambdaalgebra\Lambdaalgebra\Lambdaalgebra.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51
